@@ -7,7 +7,7 @@ const ExperienceSection = () => {
   const experiences = [
     {
       title: 'Frontend Intern',
-      company: 'Heimo Software Solutions',
+      company: 'Brimo Software Solutions',
       location: 'Remote',
       period: 'Jan 2025 - Jul 2025',
       description: 'Working on frontend development using React and Material-UI. Gained hands-on experience in QA processes, duo testing, and team collaboration.',
@@ -33,7 +33,7 @@ const ExperienceSection = () => {
     },
     {
       title: 'Frontend Intern',
-      company: 'Habbo',
+      company: 'Rablo',
       location: 'Remote',
       period: 'Jul 2024 - Oct 2024', 
       description: 'Worked on Next.js applications, Postman for API testing, and implemented various features using modern JavaScript frameworks.',
